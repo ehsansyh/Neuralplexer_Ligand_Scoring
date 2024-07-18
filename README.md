@@ -24,4 +24,4 @@ This script generates a pipeline for finding the rank 1 ligand and the related p
 ## Cite 
 
 - **Please cite our publication: Deep Learning-Driven Discovery of FDA-Approved BCL2 Inhibitors: In Silico Analysis Using a Deep Generative Model NeuralPlexer for Drug Repurposing in Cancer Treatment (doi: https://doi.org/10.1101/2024.07.15.603544
-)
+)**
